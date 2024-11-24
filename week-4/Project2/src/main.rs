@@ -31,6 +31,11 @@ fn main()
       {
         println!("Your Incentive is N1,300,000");
       }
+
+       else 
+       {
+        println!("You dont have any Incentive");
+       }
     }
 
      else if exp == "n"
